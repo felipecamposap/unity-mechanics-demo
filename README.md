@@ -6,4 +6,4 @@ A demonstration of various tasks completed in Unity for learning all the basic g
 - Raycasting.
 - Rigidbody and physics.
 - Hinge Joints.
-- Puzzles and various minigames.
+- Puzzles and various other minigames.
